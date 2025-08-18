@@ -1,0 +1,10 @@
+# Schimba PROJECT_NAME cu numele proiectului
+NFTStorageProject:  
+        # Schimba APP_NAME1 cu numele aplicatiei
+        SVG:
+
+            - view_name: svg_view
+              url_path_name: svg
+              template_name: svg
+
+        # Mai adauga aplicatii si view-uri in acest fel
